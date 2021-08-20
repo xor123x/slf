@@ -43,7 +43,7 @@ local function shitt(Object,col,Delay)
 end
 
 themes = {
-["MainColor"] = Color3.fromRGB(162, 31, 162),
+["MainColor"] = Color3.fromRGB(0, 0, 0),
 ["Accent"] = Color3.fromRGB(131, 0, 255),
 ["TabsListColor"] = Color3.fromRGB(200,200,200),
 ["TextColor"] = Color3.fromRGB(0,0,0)
